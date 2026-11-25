@@ -41,7 +41,7 @@ MIT — see [LICENSE](LICENSE).
 
 ## Team Members
 
+- [Nikhil Singhal](https://github.com/nikhilsinghal66)
 - [Nishant Jangid](https://github.com/nishantj27)
 - [Ritanshu Sharma](https://github.com/RS7143)
-- [Nikhil Singhal](https://github.com/nikhilsinghal66)
 - [Satyajeet Singh](https://github.com/satyajeet-byte)
